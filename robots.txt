@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-k5pcgq.date-me.pro/sitemap.xml
